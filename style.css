@@ -1,0 +1,40 @@
+.banner{
+    background-image: url(https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/72AYgWguyRFfesCrDJi8w8/f188f54f192b13526040430a06291415/GettyImages-938231330.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000);
+   background-size: cover;
+   height: 700px;
+   width: 1520px;
+   
+
+}
+.banner h1{
+    padding-top: 300px;
+    padding-left: 200px;
+   
+}
+.banner button{
+    margin-left: 200px;
+    margin-top: 30px;
+   
+}
+
+.banner p{
+    padding-left: 200px;
+    margin-left: 200px;
+}
+.row{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.row{
+    text-align: center;
+    display: flex;
+}
+.col{
+    display: flex;
+} .a1{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+
+}
